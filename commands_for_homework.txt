@@ -1,0 +1,7 @@
+git add . 
+git commit -m "Homework"
+
+git branch blog
+git checkout blog
+
+git push -u origin master
